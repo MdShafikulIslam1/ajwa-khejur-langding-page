@@ -25,7 +25,7 @@ const HeroSection = () => {
         </div>
       </div>
       <div className="col-span-12 flex items-center justify-center">
-        <button className="flex items-center gap-2 px-6 md:px-24 lg:px-48 text-white bg-[#FFD500] py-2 md:py-6 text-xl md:text-4xl rounded-[46px] font-medium hover:bg-slate-500 hover:drop-shadow-lg  hover:text-[#FFD500] duration-500">
+        <button className="flex items-center gap-2 px-6 md:px-24 lg:px-48 text-black bg-[#FFD500] py-2 md:py-6 text-xl md:text-4xl rounded-[46px] font-medium hover:bg-slate-500 hover:drop-shadow-lg  hover:text-[#FFD500] duration-500">
           <span>অর্ডার করতে চাই</span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
